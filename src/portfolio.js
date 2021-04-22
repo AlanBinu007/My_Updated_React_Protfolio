@@ -371,110 +371,110 @@ const certifications = {
       subtitle: "deeplearning.ai",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://coursera.org/share/737a9587023c666b8e6cb303157aaeba",
+        "https://coursera.org/verify/specialization/T273PNB7TMQV",
       alt_name: "deeplearning.ai",
       color_code: "#47A048",
     },
     {
-      title: "Sequence Models",
-      subtitle: "deeplearning.ai",
+      title: "AWS Fundamentals",
+      subtitle: "AWS",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/FM5AKEZA9NUY",
-      alt_name: "deeplearning.ai",
+        "https://coursera.org/verify/specialization/YEBRSA3E3VNZ",
+      alt_name: "AWS",
       color_code: "#F6B808",
     },
     {
-      title: "Convolutional Neural Networks",
-      subtitle: "deeplearning.ai",
+      title: "Google IT Support",
+      subtitle: "Google",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/U8BLDNUT9UUM",
-      alt_name: "deeplearning.ai",
+        "https://coursera.org/verify/professional-cert/U3SMLX6RNRH7",
+      alt_name: "Google",
       color_code: "#2AAFED",
     },
     {
-      title: "Structuring Machine Learning Projects",
-      subtitle: "deeplearning.ai",
+      title: "Cloud Engineering with Google Cloud",
+      subtitle: "Google Cloud",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/YLC25SJQKH3Y",
-      alt_name: "deeplearning.ai",
+        "https://coursera.org/verify/professional-cert/YG2GJU3CR3VV",
+      alt_name: "Google Cloud",
       color_code: "#E2405F",
     },
     {
-      title: "Machine Learning",
-      subtitle: "deeplearning.ai",
+      title: "IBM AI Engineering",
+      subtitle: "IBM",
       logo_path: "stanford_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/72KY93DT82MP",
-      alt_name: "Stanford University",
+        "https://coursera.org/verify/professional-cert/2JZ5EPXUJDKB",
+      alt_name: "IBM",
       color_code: "#8C151599",
     },
     {
-      title: "Neural Networks and Deep Learning",
-      subtitle: "deeplearning.ai",
+      title: "Google IT Automation with Python",
+      subtitle: "Google",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/25JXRB2RWHRX",
+        "https://coursera.org/verify/professional-cert/PXHVZTPFZP6G",
       alt_name: "Google",
       color_code: "#7A7A7A",
     },
     {
-      title: "Improving Deep Neural Networks",
-      subtitle: "deeplearning.ai",
+      title: "Advanced Machine Learning with TensorFlow on Google Cloud Platform",
+      subtitle: "Google Cloud",
       logo_path: "deeplearning_ai_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/records/PKR9M9LQ3JWC",
-      alt_name: "Google",
+        "https://coursera.org/verify/specialization/ZU7B8S7WZT8U",
+      alt_name: "Google Cloud",
       color_code: "#0C9D5899",
     },
     {
-      title: "Android Developer Nanodegree",
-      subtitle: "Part of Google India Scholarship Program",
+      title: "IBM Applied AI",
+      subtitle: "IBM",
       logo_path: "100.png",
-      certificate_link: "https://graduation.udacity.com/confirm/HLE7K5V3",
-      alt_name: "Google",
+      certificate_link: "coursera.org/verify/professionalcert/YM82SQN3K23X",
+      alt_name: "IBM",
       color_code: "#C5E2EE",
     },
     {
-      title: "Google Summer of Code 2019",
-      subtitle: "Google / Sugar Labs",
+      title: "IBM Data Analyst",
+      subtitle: "IBM",
       logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
+      certificate_link: "coursera.org/verify/professionalcert/7ALWY3F2QLQ4",
+      alt_name: "IBM",
       color_code: "#ffc475",
     },
     {
-      title: "Google Code-In Student",
-      subtitle: "2014-2017",
+      title: "IBM Machine Learning",
+      subtitle: "IBM",
       logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
+      certificate_link: "coursera.org/verify/professionalcert/W2GQ6Y63APGX",
+      alt_name: "IBM",
       color_code: "#1e70c1",
     },
     {
-      title: "Google Summer of Code Mentor",
-      subtitle: "2017 / 2018 / 2020",
+      title: "Cybersecurity for Business",
+      subtitle: "University Of Colorado",
       logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
+      certificate_link: "coursera.org/verify/specialization/SV7Y94BUPANX",
+      alt_name: "University Of Colorado",
       color_code: "#ffbfae",
     },
     {
-      title: "InOut 4.0 Winner #2",
-      subtitle: "2017",
+      title: "Applied Data Science with Python",
+      subtitle: "University Of Michigan",
       logo_path: "ino.png",
-      certificate_link: " ",
-      alt_name: "InOut",
+      certificate_link: "coursera.org/verify/specialization/DRQYXWUDENRD",
+      alt_name: "University Of Michigan",
       color_code: "#fffbf3",
     },
     {
-      title: "Google Code-In Mentor",
-      subtitle: "2017 / 2018 / 2019",
+      title: "SAS Visual Business Analytics",
+      subtitle: "SAS",
       logo_path: "google_logo.png",
-      certificate_link: " ",
-      alt_name: "Google",
+      certificate_link: "coursera.org/verify/professional-cert/VPSY4RU6MP6T",
+      alt_name: "SAS",
       color_code: "#b190b0",
     },
   ],
@@ -590,7 +590,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects. Below are some of my projects.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -598,15 +598,15 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "hrishi2.png",
+    profile_image_path: "MG.png",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Medium.",
-    link: "https://medium.com/@hrishipatel99",
+      "A blog (a shortened version of “weblog”) is an online journal or informational website displaying information in reverse chronological order, with the latest posts appearing first, at the top. It is a platform where a writer or a group of writers share their views on an individual subject",
+    link: "https://alanbinu.hashnode.dev/",
     avatar_image_path: "blogs_image.svg",
   },
 };
@@ -615,43 +615,43 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "opPortfolio",
-      url: "https://github.com/Hrishi1999/opPortfolio",
-      description: "(This) A clean and full customizable portfolio template.",
+      name: "Netflix Clone",
+      url: "https://github.com/AlanBinu007/netflix_clone",
+      description: "A clean and full customizable clean Netflix Clone using React and tmdb API.",
       languages: [
         {
           name: "ReactJS",
           iconifyClass: "logos-react",
         },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
       ],
     },
     {
       id: "1",
-      name: "Cab Security System",
-      url: " ",
+      name: "Amazon Clone",
+      url: "https://github.com/AlanBinu007/amazone_clone_react",
       description:
-        "Driver drowsiness detection, profanity detection, violence detection, SMS alerts, cab driver tracking.",
+        "Here i created an full functional Amazon clone application using React",
       languages: [
         {
-          name: "Python",
-          iconifyClass: "logos-python",
+          name: "ReactJS",
+          iconifyClass: "logos-react",
         },
         {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
-        },
-        {
-          name: "OpenCV",
-          iconifyClass: "logos-opencv",
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
       ],
     },
     {
       id: "2",
-      name: "Lensinator",
+      name: "Full Functional Online Student Management System",
       url: " ",
       description:
-        "Published on Play Store back in 2017, crossed 55K downloads. Performed object detection, image captioning, OCR, handwritten OCR, barcode and QR code scanning with product information.",
+        "My BCA final year project that i Published in my college itself. Got so many appreciation",
       languages: [
         {
           name: "JavaScript",
@@ -659,57 +659,51 @@ const projects = {
         },
         {
           name: "Python",
-          iconifyClass: "logos-python",
+          iconifyClass: "logos-php",
         },
         {
-          name: "Firebase",
-          iconifyClass: "logos-firebase",
+          name: "javascript",
+          iconifyClass: "logos-javascript",
         },
       ],
     },
     {
       id: "12",
-      name: "Doorbell.io",
+      name: "Face Dectection System",
       url: "https://github.com/Hrishi1999/Doorbell.io",
       description:
-        "A sound-classifier webapp made with ReactJS + TensorflowJS.",
+        "A Simple Face-Detion App using Python Computer Vison and Tensorflow.",
       languages: [
         {
           name: "Python",
           iconifyClass: "logos-python",
         },
+        
         {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "TensorflowJS",
+          name: "Tensorflow",
           iconifyClass: "logos-tensorflow",
         },
       ],
     },
     {
       id: "13",
-      name: "Video Summarization (WIP)",
+      name: "ToDo-App",
       url: "https://github.com/Hrishi1999/Video-Summarization",
       description:
-        "A video summarization webapp. A Flask-based backend which servers the Tensorflow model and a frontend made in ReactJS.",
+        "A simple ToDo application using REST API with the facility to Add, Remove, Edit and  Get Methods",
       languages: [
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
         },
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
+
         {
           name: "ReactJS",
           iconifyClass: "logos-react",
         },
         {
-          name: "Tensorflow",
-          iconifyClass: "logos-tensorflow",
+          name: "Sring",
+          iconifyClass: "logos-spring",
         },
       ],
     },
